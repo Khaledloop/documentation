@@ -41,3 +41,5 @@ To add a block to the workflow, drag a block from the blocks list on the left si
 ![Adding block](https://res.cloudinary.com/chat-story/image/upload/v1666059993/automa/adding-block_pobloe.gif)
 
 Save the workflow and now you can run the workflow by clicking the play icon <v-remixicon name="riPlayLine" />
+
+
